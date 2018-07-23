@@ -1,14 +1,14 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title></title>
+	<title>Index</title>
 </head>
 <body>
  <?php
    // echo 'hello world';
     $a=123;
    // echo $a;
-    $b="sindhu";
+    $b="sindhu1502";
     //echo $b;
     $c=23.4;
     //echo $c;
